@@ -1,7 +1,5 @@
-Branch dedicada ao desenvolvimento do exercício sobre Git e Github do curso da EBAC, que consiste em:
+Branch dedicada ao desenvolvimento do exercício sobre CSS do curso da EBAC, que consiste em:
 
-• Criar um repositório no Github, ex: curso_ebac_frontend
+• Criar mais duas seções no layout criado durante o módulo, exemplos: entretenimento e tecnologia, as novas seções devem conter outras notícias e diferentes cores.
 
-• Criar uma branch chamada exercicio_git no repositório recém-criado
-
-• Na branch exercício_git deverá ser adicionado um arquivo nome.txt com nome completo
+• Enviar os arquivos para o Github em uma branch chamada exercício_css
